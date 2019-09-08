@@ -36,7 +36,7 @@ Deep learning creates learning models by acquiring notions that are passed on to
 
 But deep learning requires three elements to function, as we have seen in previous guides:
 
-- date
+- data
 - know-how
 - computational power
 
